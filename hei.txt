@@ -5,6 +5,7 @@ alle sammen
 branch1
 
 Dette er på branch 1 igjen. Nå har vel branch1 og master divergert.
+branch1
 
 
 
